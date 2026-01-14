@@ -1,4 +1,4 @@
-# -Student-Progress-Monitoring-System
+# Student-Progress-Monitoring-System
 
 ## Overview
 This project implements a **student performance management and analysis system**
