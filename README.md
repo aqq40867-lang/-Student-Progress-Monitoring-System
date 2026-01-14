@@ -43,7 +43,7 @@ educational data analysis and reporting.
 ---
 
 ## Project Structure
-
+···
 ├── menu.ipynb # Main entry point (user interface)
 ├── CWPreprocessing.py # Data cleaning & database creation
 ├── studentPerformance.py # Per-student performance analysis
@@ -51,7 +51,7 @@ educational data analysis and reporting.
 ├── underperformingStudent.py # Underperforming student detection
 ├── CWDatabase.db # SQLite database (generated locally)
 └── data/ # Raw assessment CSV files
-
+···
 ---
 
 ## Technologies Used
